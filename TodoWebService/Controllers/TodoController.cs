@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using TodoWebService.Models.DTOs.Pagination;
 using TodoWebService.Models.DTOs.Todo;
 using TodoWebService.Providers;
 using TodoWebService.Services;
@@ -71,5 +72,12 @@ namespace TodoWebService.Controllers
             return result ? result : NotFound();
         }
 
+        [HttpGet("all/{page}/{pageSize}")]
+        public async Task<ActionResult<PaginatedListDto<TodoItemDto>>> All(int page, int pageSize, bool? isCompleted)
+        {
+            var user = _userProvider.GetUserInfo();
+            var result = await _todoService.GetTodoItems(user!.id, page, pageSize, isCompleted);
+            return result is not null ? result : NotFound();
+        }
     }
 }

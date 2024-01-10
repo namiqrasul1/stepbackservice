@@ -87,13 +87,9 @@ namespace TodoWebService.Services
                 } : null;
         }
 
-        public async Task<PaginatedListDto<TodoItemDto>> GetTodoItems(string userId, int page, int pageSize, string? search, bool? isCompleted)
+        public async Task<PaginatedListDto<TodoItemDto>> GetTodoItems(string userId, int page, int pageSize, bool? isCompleted)
         {
             IQueryable<TodoItem> query = _context.TodoItems.Where(e => e.UserId == userId);
-
-            if(!string.IsNullOrWhiteSpace(search))
-                query = query.Where(e => e.Text.Contains(search));
-
 
             if(isCompleted.HasValue)
                 query = query.Where(e => e.IsCompleted == isCompleted);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\namig\\OneDrive\\Desktop\\todoservice\\TodoWebService\\TodoWebService.csproj": {}
+    "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\namig\\OneDrive\\Desktop\\todoservice\\TodoWebService\\TodoWebService.csproj": {
+    "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namig\\OneDrive\\Desktop\\todoservice\\TodoWebService\\TodoWebService.csproj",
+        "projectUniqueName": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj",
         "projectName": "TodoWebService",
-        "projectPath": "C:\\Users\\namig\\OneDrive\\Desktop\\todoservice\\TodoWebService\\TodoWebService.csproj",
+        "projectPath": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj",
         "packagesPath": "C:\\Users\\namig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namig\\OneDrive\\Desktop\\todoservice\\TodoWebService\\obj\\",
+        "outputPath": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

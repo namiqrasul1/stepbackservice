@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKPLiAx5cEmyj/nOZmU+23t1EIsmdtCLt7W+2BMQ5DnpQ0ShETuUROQ565MvOaqUk2tmiiRA53faUCUenD2/pA==",
+  "dgSpecHash": "FxRgQT8Ez/oTm7+9ZC2m35qm8hM2pBOXup02A6yldTdbMYveRCEyjiN/q/nrM3BBmFNstteWzDNK/GHFnHlAaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namig\\OneDrive\\Desktop\\todoservice\\TodoWebService\\TodoWebService.csproj",
+  "projectFilePath": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namig\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\namig\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
