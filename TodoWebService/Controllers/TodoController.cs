@@ -35,6 +35,12 @@ namespace TodoWebService.Controllers
                 : NotFound();
         }
 
+        [HttpGet("test")]
+        [AllowAnonymous]
+        public IActionResult Test(){
+            return Ok();
+        }
+
         /// <summary>
         /// Creates new todo item.
         /// </summary>
