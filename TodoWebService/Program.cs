@@ -5,6 +5,7 @@ using Serilog;
 using Serilog.Events;
 using TodoWebService;
 using TodoWebService.Data;
+using TodoWebService.Middlewares;
 using TodoWebService.Models.DTOs.Validations;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -47,6 +48,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 

@@ -388,9 +388,10 @@ C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\scopedcss\bundle\TodoWebService.styles.css
-C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\TodoWebService.csproj.CopyComplete
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\TodoWebService.dll
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\refint\TodoWebService.dll
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\TodoWebService.pdb
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\TodoWebService.genruntimeconfig.cache
 C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\ref\TodoWebService.dll
+C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\TodoWebService.sourcelink.json
+C:\Users\namig\OneDrive\Desktop\stepbackservice\TodoWebService\obj\Debug\net7.0\TodoWebS.05425546.Up2Date

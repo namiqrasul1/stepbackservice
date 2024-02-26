@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\di.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\todowebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\todowebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\providers\\requestuserprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\providers\\requestuserprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\models\\dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\models\\dtos\\auth\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\models\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\models\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\models\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\models\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\models\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\models\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\models\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\auth\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\auth\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|c:\\users\\namig\\onedrive\\desktop\\stepbackservice\\todowebservice\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C50CC-D0F7-4160-A585-5FF3B5B3373F}|TodoWebService\\TodoWebService.csproj|solutionrelative:todowebservice\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "TodoWebService\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:22:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoWebService.csproj",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj",
+              "RelativeDocumentMoniker": "TodoWebService\\TodoWebService.csproj",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\TodoWebService.csproj",
+              "RelativeToolTip": "TodoWebService\\TodoWebService.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T13:24:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Models\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "TodoWebService\\Models\\DTOs\\Auth\\RefreshTokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:56:07.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "TodoWebService\\Models\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:54:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "TodoWebService\\Models\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:53:47.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Data\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoWebService\\Data\\TodoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:45:36.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\Entities\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Models\\Entities\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\Entities\\TodoItem.cs",
+              "RelativeToolTip": "TodoWebService\\Models\\Entities\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:43:54.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Models\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Models\\Entities\\AppUser.cs",
+              "RelativeToolTip": "TodoWebService\\Models\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:41:38.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DI.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\DI.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\DI.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\DI.cs",
+              "RelativeToolTip": "TodoWebService\\DI.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwGMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T16:41:23.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Program.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Program.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Program.cs",
+              "RelativeToolTip": "TodoWebService\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T17:12:21.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestUserProvider.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Providers\\RequestUserProvider.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Providers\\RequestUserProvider.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Providers\\RequestUserProvider.cs",
+              "RelativeToolTip": "TodoWebService\\Providers\\RequestUserProvider.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T17:19:31.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TodoWebService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:11:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Auth\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Auth\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Auth\\JwtConfig.cs",
+              "RelativeToolTip": "TodoWebService\\Auth\\JwtConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T11:12:05.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoWebService\\appsettings.json",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\appsettings.json",
+              "RelativeToolTip": "TodoWebService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-12T11:09:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Auth\\JwtService.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Auth\\JwtService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Auth\\JwtService.cs",
+              "RelativeToolTip": "TodoWebService\\Auth\\JwtService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T11:09:29.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoWebService\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwE4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T14:41:02.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoWebService\\Services\\TodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T09:36:18.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoWebService\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\stepbackservice\\TodoWebService\\Services\\ITodoService.cs",
+              "RelativeToolTip": "TodoWebService\\Services\\ITodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T09:35:57.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
