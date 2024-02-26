@@ -36,7 +36,6 @@ namespace TodoWebService.Controllers
         }
 
         [HttpGet("test")]
-        [AllowAnonymous]
         public IActionResult Test(){
             return Ok();
         }
